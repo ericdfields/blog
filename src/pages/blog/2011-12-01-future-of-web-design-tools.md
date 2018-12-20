@@ -4,6 +4,7 @@ title: Web design deserves better tools than the crap we're stuck with now
 description: Designing for the web with responsive web design principles means throwing out the old, static-mockup based way of doing things and designing directly in the browser. We need new tools that respect this process, like Gradient.
 author: Eric D. Fields
 status: published
+date: 2011-12-01
 ---
 
 As an industry, we web design-types are torpedoing into the responsively designed future while our design tools are stuck in the mockup-driven past.

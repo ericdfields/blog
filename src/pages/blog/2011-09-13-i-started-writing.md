@@ -4,6 +4,7 @@ title: I started writing (again)
 description:
 author: Eric D. Fields
 status: published
+date: 2011-09-13
 ---
 
 Around July 1, 2011, I left my job at a high-profile consulting firm in Boston, Massachusetts to embark, for the second time, on the path of indie web professional.

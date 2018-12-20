@@ -5,6 +5,7 @@ description:
 author: Eric D. Fields
 status: published
 body-class: steve
+date: 2011-10-06
 ---
 
 ## Preface

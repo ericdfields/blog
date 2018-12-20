@@ -4,6 +4,7 @@ title: How to be a Web Designer in 2012
 description: Web design isn't just about making pretty pictures for the Internets anymore. Innoviative industries often look for <a href="http://en.wikipedia.org/wiki/T-shaped_skills" target="_blank">T-shaped individuals</a>, but maybe we simply need to be more flexible and honest with ourselves, finding what parts of web design we're awesome at and what parts we only want to do in a pinch. Also, where the f**k's my art department?
 author: Eric D. Fields
 status: published
+date: 2012-01-24
 ---
 
 I recently read [Tom Milway](http://twitter.com/tommilway)'s "[How to Build a Modern Website in 2011](http://blog.tommilway.com/post/14322949339/how-to-build-a-modern-website-in-2011)" and [Andy Johnson](http://twitter.com/shapingthepage)'s article "[Do We Really Need a New Web Design App?](http://shapingthepage.com/journal/do-we-really-need-a-new-web-design-app)" back-to-back.

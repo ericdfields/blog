@@ -4,6 +4,7 @@ title: Creating digital media on an iPad (2)
 description: 
 author: Eric D. Fields
 status: pending
+date: 2011-09-22
 ---
 
 When the iPad was initially release, it was touted as the ultimate digital media *consumption* device. Whatever you can see and hear over the Internet or on your hard drive was just going to be more enjoyable on the iPad for all sorts of reasons: form factor, ease of use, portability, etc.
