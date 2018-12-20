@@ -5,6 +5,9 @@ description: A big screen + multitouch device + a room full of people = a video 
 author: Eric D. Fields
 status: published
 date: 2012-06-20 15:03:22
+tags:
+  - airplay
+  - gaming
 ---
 
 AirPlay is a funny feature. It's not the easiest thing to discover, but pushing that first YouTube video from your phone to the living room's Apple TV is magical. It's hard not to _AirPlay all the things_ from that moment on.
