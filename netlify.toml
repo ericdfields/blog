@@ -6,6 +6,6 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/:year/:month/:date/:slug/"
-  to = "/blog/:year-:month-:day-:slug/"
+  to = "/blog/:year-:month-:date-:slug/"
   status = 301
   force = false
