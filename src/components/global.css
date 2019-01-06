@@ -2,8 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-p {
-  @apply my-4;
+body {
+  @apply bg-grey-lightest;
+}
+h1,
+h2,
+h3 {
+  @apply font-thin text-black;
+}
+article {
+  @apply py-16;
+}
+article h2 {
+  @apply mt-10;
+}
+p,
+article li {
+  @apply my-4 leading-normal text-grey-darkest;
+}
+p strong,
+li strong {
+  @apply font-medium text-black;
 }
 a {
   @apply text-teal-dark no-underline;
