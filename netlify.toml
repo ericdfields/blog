@@ -9,3 +9,8 @@
   to = "http://ericbrookfield.com/blog/:year-:month-:date-:slug/"
   status = 301
   force = false
+[[redirects]]
+  from = "http://ericdfields.com"
+  to = "http://ericbrookfield.com"
+  status = 301
+  force = false

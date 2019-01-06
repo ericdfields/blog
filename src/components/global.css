@@ -1,0 +1,16 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+p {
+  @apply my-4;
+}
+a {
+  @apply text-teal-dark no-underline;
+}
+.intro {
+  @apply text-xl border-b border-grey-light pb-4;
+}
+section {
+  @apply my-8;
+}
