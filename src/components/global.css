@@ -25,11 +25,21 @@ li strong {
   @apply font-medium text-black;
 }
 a {
-  @apply text-teal-dark no-underline;
+  @apply text-blue-dark no-underline;
 }
-.intro {
-  @apply text-xl border-b border-grey-light pb-4;
+main {
+  @apply max-w-lg m-auto pt-16 font-thin p-4;
 }
-section {
+/* section {
   @apply my-8;
+} */
+.content {
+  @apply m-auto my-12;
+}
+.divider-text {
+  @apply text-xs font-medium my-8 text-center uppercase tracking-wide border-b border-grey-dark text-grey-dark;
+}
+.divider-text span {
+  @apply bg-grey-lightest p-4 py-1 inline-block;
+  transform: translate3d(0, 0.9em, 0);
 }

@@ -9,44 +9,24 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
     return (
       <Layout>
-        <section>
-          <div className="intro">
-            <p>
-              Heeey. My name's Eric. I'm a web developer, or, "I work with
-              computers" if you're my wife and you're introducing me to your
-              grandmother for the first time.
-            </p>
-            <p>
-              I sort of took a break from this site for a few years, and now I
-              have a whole new name and a baby!
-            </p>
-            <p>
-              I'm going to try to write some more this year and share things
-              that I like.
-            </p>
-            <p>Right here. On this site.</p>
-          </div>
-        </section>
         <section className="section">
           <div className="container">
-            <div className="content">
-              <h2 className="text-2xl font-thin">Latest Stories</h2>
-            </div>
+            <h2 className="divider-text">
+              <span>Latest posts</span>
+            </h2>
             {posts.map(({ node: post }) => (
               <div className="content" key={post.id}>
-                <p>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
+                <h3 className="has-text-primary text-xl font-medium mb-2">
+                  <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+                  <small className="ml-2 font-thin text-grey-darker">
+                    {post.frontmatter.date}
+                  </small>
+                </h3>
+                <p className="mt-0">
                   {post.excerpt}
                   <br />
-                  <br />
-                  <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
+                  <Link className="font-medium" to={post.fields.slug}>
+                    keep reading →
                   </Link>
                 </p>
               </div>
@@ -74,7 +54,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 200)
           id
           fields {
             slug

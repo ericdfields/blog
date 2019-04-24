@@ -2,8 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 
-import Navbar from "../components/Navbar";
-import "./all.sass";
+import { Navbar } from "../components/Navbar";
 import "./global.css";
 
 const TemplateWrapper = ({ children }) => (
@@ -19,7 +18,7 @@ const TemplateWrapper = ({ children }) => (
       }
     `}
     render={data => (
-      <div>
+      <React.Fragment>
         <Helmet>
           <html lang="en" />
           <title>{data.site.siteMetadata.title}</title>
@@ -58,11 +57,11 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        <div className="max-w-lg m-auto pt-16 font-thin">
+        <main>
           <Navbar />
           <div>{children}</div>
-        </div>
-      </div>
+        </main>
+      </React.Fragment>
     )}
   />
 );
