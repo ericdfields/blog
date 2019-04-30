@@ -27,10 +27,10 @@ What I find myself doing more and more is **designing _components_ in the browse
 
 For me, a component is any given idea of a thing that a good website must have:
 
-- good typography
-- a uniform set of form inputs and buttons
-- navigation or [chrome](http://www.mediawiki.org/wiki/Athena#Notes_on_Nomenclature)
-- adaptive layout
+-   good typography
+-   a uniform set of form inputs and buttons
+-   navigation or [chrome](http://www.mediawiki.org/wiki/Athena#Notes_on_Nomenclature)
+-   adaptive layout
 
 Right now it's a big, slow, dumb challenge to attempt to do all these things well in static mockups and expect the result to be pushed into code perfectly. These days, I often work on something like my header, paragraph and list styles with markup and CSS in a browser using real content, test it across multiple viewports and devices, then move on to the next component when I'm happy with the results.
 
@@ -50,7 +50,7 @@ But serendipity is a clever girl, and [Gradient 1.0](http://www.gradientapp.com/
 
 In a nut, Gradient is a remarkably intuitive tool for doing 90% of the gradients we web designers need on the regular. Just look at the first boot screen:
 
-<p class="img"><img src="http://ericdfields.s3.amazonaws.com/img/gradientapp_1.0_first-boot.png"></p>
+<p class="img"><img src="//ericdfields.s3.amazonaws.com/img/gradientapp_1.0_first-boot.png"></p>
 
 Gradient makes the task of designing gradients in CSS3 as easy as designing them in an image editor. With a UI like this, I might actually argue that its the most enjoyable gradient editing tool I've ever used.
 

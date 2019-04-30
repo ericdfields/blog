@@ -9,7 +9,7 @@ date: 2012-01-26 12:58:15
 
 Microsoft's [Metro UI](<'http://en.wikipedia.org/wiki/Metro_(design_language)'>) has been rightly praised as a breath of fresh air in the interface design world. The last decade of websites and apps has been highly influenced by Apple, whose [skeuomorphism](http://en.wikipedia.org/wiki/Skeuomorph) has been both [ridiculed](http://madebymany.com/blog/apples-aesthetic-dichotomy) and [praised](http://www.andymangold.com/skeuomorphism-the-opiate-of-the-people/).
 
-![Picture of Microsoft's Windows Metro UI](http://ericdfields.s3.amazonaws.com/img/metro/21-Windows-8-Metro.jpg)
+![Picture of Microsoft's Windows Metro UI](//ericdfields.s3.amazonaws.com/img/metro/21-Windows-8-Metro.jpg)
 
 Microsoft's designers created a [minimalistic but responsive and colorful design language](http://www.youtube.com/watch?v=IgY8Ty_0SJE&feature=list_related&playnext=1&list=SPBC50EC330F27369E) inspired by the stark modernism found in public transit hubs.
 

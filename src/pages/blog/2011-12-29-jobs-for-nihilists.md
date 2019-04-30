@@ -7,10 +7,10 @@ status: published
 date: 2011-12-29
 ---
 
-![No jobs for nihilists on Monster](http://ericdfields.s3.amazonaws.com/img/nihilism-monster.png)
+![No jobs for nihilists on Monster](//ericdfields.s3.amazonaws.com/img/nihilism-monster.png)
 
-![No jobs for nihilists on Careerbuilder](http://ericdfields.s3.amazonaws.com/img/nihilism-careerbuilder.png)
+![No jobs for nihilists on Careerbuilder](//ericdfields.s3.amazonaws.com/img/nihilism-careerbuilder.png)
 
-![No jobs for nihilists on Craigslist](http://ericdfields.s3.amazonaws.com/img/nihilism-craigslist.png)
+![No jobs for nihilists on Craigslist](//ericdfields.s3.amazonaws.com/img/nihilism-craigslist.png)
 
 Maybe you should try LinkedIn?
