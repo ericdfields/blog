@@ -19,4 +19,4 @@ We unfortunately started a little late and I hit my time limit before getting to
 
 My slides really just supported my narration, so they don't stand on their own well. Nonetheless, here they are:
 
-<script src="http://speakerdeck.com/embed/4f70c671a1d1bd0022003c4f.js"></script>
+<script src="https://speakerdeck.com/embed/4f70c671a1d1bd0022003c4f.js"></script>

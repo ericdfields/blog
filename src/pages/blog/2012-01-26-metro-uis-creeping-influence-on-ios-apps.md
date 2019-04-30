@@ -17,11 +17,11 @@ I've yet to play with a Windows Phone, which featured the first iteration of thi
 
 ## [Scorekeeper XL](itunes.apple.com/us/app/scorekeeper-xl/id463243024?mt=8)
 
-<iframe width="601" height="338" src="http://www.youtube.com/embed/sXqXpwyBI1k" frameborder="0" allowfullscreen></iframe>
+<iframe width="601" height="338" src="https://www.youtube.com/embed/sXqXpwyBI1k" frameborder="0" allowfullscreen></iframe>
 
 ## [Clear for iPhone](http://www.realmacsoftware.com/clear/)
 
-<iframe src="http://player.vimeo.com/video/35693267?title=0&amp;byline=0&amp;portrait=0" width="601" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/35693267?title=0&amp;byline=0&amp;portrait=0" width="601" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 There's a lot of emotion behind these apps. The stark visual design heightens the effect of the unique sounds and animations. Watching these videos and using Scorekeeper XL (Clear is not out yet) is delightful in the Pixar sense of the word.
 
